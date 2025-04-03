@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","8799","@web ShopNow login for ADIDAS ORIGINAL","","Fri Mar 14 06:45:22 IST 2025","passed","Fri Mar 14 06:45:31 IST 2025","","ShopNowPO.spec.js","",""
+"","8715","@web ShopNow login for ZARA COAT 3","","Fri Mar 14 06:45:12 IST 2025","passed","Fri Mar 14 06:45:20 IST 2025","","ShopNowPO.spec.js","",""
